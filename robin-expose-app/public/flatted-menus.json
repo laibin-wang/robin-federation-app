@@ -1,0 +1,20 @@
+[
+  {
+    "meta": {
+      "title": "系统管理新增"
+    },
+    "name": "system-add"
+  },
+  {
+    "meta": {
+      "title": "系统管理"
+    },
+    "name": "system"
+  },
+  {
+    "meta": {
+      "title": "用户管理"
+    },
+    "name": "user"
+  }
+]
